@@ -1,4 +1,4 @@
-package com.miempresa.mi_app.model;
+package main.java.com.miempresa.mi_app.model;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
