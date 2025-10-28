@@ -1,6 +1,6 @@
-package com.miempresa.miapp.repository;
+package com.miempresa.mi_app.repository;
 
-import com.miempresa.miapp.model.Proyecto;
+import com.miempresa.mi_app.model.Proyecto;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface ProyectoRepository extends JpaRepository<Proyecto, Long> {
