@@ -1,4 +1,4 @@
-package com.miempresa.miapp.model;
+package main.java.com.miempresa.mi_app.model;
 
 import jakarta.persistence.*;
 import java.util.ArrayList;
